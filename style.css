@@ -1,4 +1,19 @@
-header {
-    background: pink;
-    color: blue;
+.cabeçalhoprincipal {
+    background: purple;
+    color: black;
+}
+.logo {
+    width: 250px;
+    position: relative;
+    left: 300px;
+    top: 35px;
+}
+.cabeçalho {
+    display: flex;
+    font-size: 60px;
+}
+.item {
+    color: pink;
+    position: relative;
+    left: 500px;
 }
