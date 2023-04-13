@@ -16,4 +16,18 @@
     color: pink;
     position: relative;
     left: 500px;
+    padding-left: 120px;
+    margin-left: 100px;
+}
+.conteudo-principal {
+    background-image: violet;
+    border: solid black 6px;
+    padding: 60px;
+}
+.tituloum-conteudoprincipal {
+    padding-left: 600px;
+    padding-top: 50px;
+    font-size: 60px;
+
+
 }
